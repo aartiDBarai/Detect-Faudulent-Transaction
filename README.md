@@ -1,1 +1,1 @@
-# Detectf-Faudulent-Transaction
+# Detect-Faudulent-Transaction
